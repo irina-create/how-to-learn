@@ -1,0 +1,12 @@
+.table__cell {
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  width: 250px;
+  margin-bottom: 60px;
+  margin-left: 0;
+  margin-right: 0;
+}
+.table__cell:nth-child(n+5) {
+  margin-bottom: 0;
+}

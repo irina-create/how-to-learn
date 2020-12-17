@@ -1,0 +1,10 @@
+.table__cell_theme_dark {
+  position: relative;
+  color: white;
+  margin-bottom: 80px;
+  width: 200px;
+  z-index: 1;
+}
+.table__cell_theme_dark:nth-child(n+6) {
+  margin-bottom: 0;
+}
