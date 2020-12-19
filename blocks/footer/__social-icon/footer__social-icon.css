@@ -1,4 +1,6 @@
 .footer__social-icon {
-  size: 16px 16px;
+  width: 16px;
+  height: 16px;
   margin-right: 10px;
+  align-self: center;
 }
